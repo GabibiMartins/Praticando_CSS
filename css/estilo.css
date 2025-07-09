@@ -1,5 +1,8 @@
+body{ 
+    background-color: #f2f2f2;
+}
 .header{
-    width: 1500px;
+    width: 1400px;
     height: 150px;
     background-color: rgb(126, 173, 120); 
     margin: 0 auto;
@@ -23,4 +26,39 @@ img{
     width: 300px;
     height: 200px;
 }
+footer{ 
+    background-color:rgb(200, 112, 162);
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(126, 173, 120);
+    font-size: 20px;
+}
+p{ 
+    font-size: 15px;
+}
+.flores{
+    width: 500px;
+    height: 300px;
+    margin: 0 auto;
+    margin-top: 10px;
+    background-color: rgba(126, 173, 120, 0.24);
+    padding: 50px;
+    border-radius: 25px;
 
+}
+ol{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(126, 173, 120);
+    font-size: 20px; 
+    text-align: center;
+    margin: 0 auto;
+}
+ul{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(0, 0, 0);
+    font-size: 15px; 
+}
